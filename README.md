@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Arman Shafiei
-- 👀 I’m interested in Linux and DevOps
-- 💞️ I’m looking to collaborate on cloud projects
+- 👋 **Hi, I’m Arman Shafiei**
+- 🖤 I’m interested in Linux and DevOps
+- 📘 I’m looking to collaborate on cloud projects
 - 📫 If you are going to contact me use:
      - Email: arman_shafiei_1998@yahoo.com
      - Linkedin: www.linkedin.com/in/arman-shafiei/
